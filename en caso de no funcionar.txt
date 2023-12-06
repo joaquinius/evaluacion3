@@ -1,0 +1,2 @@
+dentro de la carpeta admin-gastos-ingresos
+ejecutar comando npm install 
